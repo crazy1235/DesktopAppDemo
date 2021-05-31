@@ -1,0 +1,35 @@
+.gradle
+local.properties
+/.idea/workspace.xml
+.DS_Store
+build
+gen
+log.txt
+
+main/build
+main/gen
+
+/build-cache
+/build-cache/*
+
+.metadata
+out/
+bin/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/*
+!.idea/inspectionProfiles
+!.idea/inspectionProfiles/*
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Eclipse project files
+.classpath
+.project
